@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:listbucket/MainSrceen.dart';
 
-void main(){
+Future<void> main() async {
   runApp(MyApp());
 }
 
